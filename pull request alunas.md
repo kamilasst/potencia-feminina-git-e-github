@@ -23,4 +23,4 @@ Informe seu nome e usuário do github, vamos fortalecer a nossa rede!
 
 [Isabela Mouzinho](https://github.com/itmouzinho)
 
-[Kamila Dos Santos](https://github.com/kamilasst)
+
